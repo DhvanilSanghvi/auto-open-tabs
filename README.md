@@ -22,6 +22,6 @@ To add more tabs to auto open, just append "background.js" with the same 3 lines
 
 Goto chrome://extensions in your chrome browser.
 Enable "developer mode" in the upper right corner.
-Then hit "Load Unpacked" and select the directory which you cloned.
+Then hit "Load Unpacked" and select the directory - AutoOpenTabs from the directory where you cloned this project.
 The extension is now added and working. Look out for the "O" icon in the extensions with the description - "Open your day to day tabs".
 You can also pin it.
