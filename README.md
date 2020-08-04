@@ -9,8 +9,7 @@ You can program it to open as many tabs as you like.
 Just clone this repo to your own machine.   
    
 ### Modifying for your own requirement   
-In the file - "manifest.json", you can see the function call for different tabs.   
-   
+
 Modify the file "background.js" -    
 Copy the following three lines of code and insert the url inside the quotes in the second line :   
    
