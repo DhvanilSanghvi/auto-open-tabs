@@ -10,14 +10,11 @@ Just clone this repo to your own machine.
    
 ### Modifying for your own requirement   
 
-Modify the file "background.js" -    
-Copy the following three lines of code and insert the url inside the quotes in the second line :   
-   
-chrome.browserAction.onClicked.addListener(function(tab) {   
-  chrome.tabs.create({url: ""});   
-});   
-   
-To add more tabs to auto open, just append "background.js" with the same 3 lines, with a different URL.   
+Make sure python is installed on your computer.    
+Open Terminal and navigate to the cloned repository.    
+Navigate to AutoOpenTabs.    
+Execute main.py by typing - python main.py    
+Follow the instructions and add as many URLS as you would like.    
    
 ### Adding to Chrome   
    
